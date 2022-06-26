@@ -1,1 +1,2 @@
-# Token_contracts
+# DXF
+New version of DYNXT token contract
